@@ -105,6 +105,12 @@ nav,
 section {
   display: block;
 }
+
+header {
+  background-image: url("https://github.com/MinaMonsi/web-Sprint-Challenge-User-Interface-and-Git/blob/master/img/lambda-black.png?raw=true");
+  margin: 20px;
+}
+
 body {
   line-height: 1;
 }
