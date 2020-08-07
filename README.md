@@ -34,13 +34,21 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+   I do not know.
+
 2. Name two big differences between `display: block;` and `display: inline;`.
 
+The difference is that 'display: inline;' allows elements to sit next to each other and respects the margins. 'Display; block;' does not.
+
 3. What are the 4 areas of the box model?
+
+The four areas are the content edge, padding edge, border edge, and margin edge.
 
 4. While using flexbox, what axis does the following property work on: `align-items: center`?
 
 5. Explain why git is valuable to a team of developers.
+
+   Git is valuable because it performs strongly and is more reliable.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section _will_ prevent you from passing this challenge.
 
@@ -51,7 +59,7 @@ You are expected to be able to answer all these questions. Your responses contri
 - [x] Clone your OWN version of the repository (Not Lambda's by mistake!).
 - [x] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push -u origin `<firstName-lastName>`.
+- [x] Push commits: git push -u origin `<firstName-lastName>`.
 
 Follow these steps for completing your project.
 
