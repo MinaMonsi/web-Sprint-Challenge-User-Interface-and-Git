@@ -48,7 +48,7 @@ The four areas are the content edge, padding edge, border edge, and margin edge.
 
 5. Explain why git is valuable to a team of developers.
 
-   Git is valuable because it performs strongly and is more reliable.
+   Git is valuable because it allows a team to work on a project together without destroying the original code. A team can merge changes made by each member to one scource. It also keeps track of every change and keeps a record of what has been done.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section _will_ prevent you from passing this challenge.
 
