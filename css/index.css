@@ -179,6 +179,15 @@ header nav img {
   margin: 0 auto;
   margin-bottom: 20px;
 }
+
+.skyline {
+  width: 800px;
+  margin: 0 auto;
+}
+.about {
+  width: 800px;
+  margin: 0 auto;
+}
 .container {
   width: 800px;
   margin: 0 auto;
