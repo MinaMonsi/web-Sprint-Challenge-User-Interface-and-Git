@@ -201,6 +201,18 @@ header nav img {
   width: 800px;
   margin: 0 auto;
 }
+
+.learn {
+  background-color: white;
+  border: solid;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+}
 .container {
   width: 800px;
   margin: 0 auto;
@@ -234,6 +246,7 @@ header nav img {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  border-bottom: 1px dashed black;
 }
 
 .middle-content .boxes .box {
@@ -251,6 +264,7 @@ header nav img {
   display: flex;
   margin: 0 2% 20px;
   justify-content: space-around;
+  border-bottom: 1px dashed black;
 }
 
 .bottom-content .text-container {
