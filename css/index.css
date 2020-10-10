@@ -186,6 +186,19 @@ header nav img {
 }
 .about {
   width: 800px;
+  padding: 20px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  border-bottom: 1px dashed black;
+}
+
+.top-mid-img {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.bottom-img {
+  width: 800px;
   margin: 0 auto;
 }
 .container {
