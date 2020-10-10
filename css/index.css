@@ -107,7 +107,6 @@ section {
 }
 
 header {
-  background-image: url("https://github.com/MinaMonsi/web-Sprint-Challenge-User-Interface-and-Git/blob/master/img/lambda-black.png?raw=true");
   margin: 20px;
 }
 
@@ -166,7 +165,20 @@ h5 {
 p {
   line-height: 1.4;
 }
+header {
+  width: 900px;
+  margin: 0px auto;
+}
 
+header nav img {
+  margin-left: 50px;
+}
+
+.cityTraffic {
+  width: 800px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
 .container {
   width: 800px;
   margin: 0 auto;
