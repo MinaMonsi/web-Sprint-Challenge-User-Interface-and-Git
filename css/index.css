@@ -205,7 +205,7 @@ header nav img {
 
 .learn {
   background-color: white;
-  border: solid;
+  border: solid 1px;
   color: black;
   padding: 10px 20px;
   text-align: center;
@@ -219,8 +219,8 @@ header nav img {
   margin: 0 auto;
 }
 .container2 {
-   width: 800px;
-  margin: 0 auto; 
+  width: 800px;
+  margin: 0 auto;
 }
 
 .top-content {
@@ -237,10 +237,9 @@ header nav img {
   padding-bottom: 20px;
 }
 
-
 .mid-content2 {
   width: 800px;
-  margin: 0 auto; 
+  margin: 0 auto;
 }
 .middle-content {
   margin-bottom: 20px;
@@ -259,10 +258,6 @@ header nav img {
   border-bottom: 1px dashed black;
 }
 
-.text-box{
-  display: flex:
-  flex-direction: row;
-}
 .middle-content .boxes .box {
   width: 12.5%;
   height: 100px;
@@ -278,8 +273,13 @@ header nav img {
   display: flex;
   margin: 0 2% 20px;
   justify-content: space-around;
+  padding-bottom: 20px;
+}
+/* (class changed from textContainer in html&css to text-box) trying to fix border */
+.container2 .bottomMid .text-box {
   border-bottom: 1px dashed black;
   padding-bottom: 20px;
+  padding-top: 20px;
 }
 
 .bottom-text {
