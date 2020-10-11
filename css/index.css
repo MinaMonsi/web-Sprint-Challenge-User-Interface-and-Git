@@ -281,7 +281,8 @@ header nav img {
   margin: 0 2% 20px;
   padding-bottom: 20px;
 }
-/* (class changed from textContainer in html&css to text-box) trying to fix border */
+
+/* trying to fix border */
 .container2 .bottomMid .text-box {
   border-bottom: 1px dashed black;
   padding-bottom: 20px;
