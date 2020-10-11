@@ -196,23 +196,29 @@ header nav img {
 .top-mid-img {
   width: 800px;
   margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .bottom-img {
   width: 800px;
   margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .learn {
   background-color: white;
   border: solid 1px;
   color: black;
-  padding: 10px 20px;
+  padding: 7px 20px;
   text-align: center;
-  text-decoration: none;
   display: inline-block;
-  margin: 4px 2px;
+  margin: 20px 2px 7px;
   cursor: pointer;
+  border-radius: 10px;
 }
 .container {
   width: 800px;
@@ -271,8 +277,8 @@ header nav img {
 
 .bottomMid {
   display: flex;
+  justify-content: space-between;
   margin: 0 2% 20px;
-  justify-content: space-around;
   padding-bottom: 20px;
 }
 /* (class changed from textContainer in html&css to text-box) trying to fix border */
